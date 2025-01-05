@@ -9,7 +9,7 @@ This research seeks to analyze the evolving sentiments and themes in customer re
 # File Description
 There are 3 folders
 ### Folder 1: Project Report
-including PDS file of project report
+including PDF file of project report
 ### Folder 2: Python Code
 1. [RQ0] Data Collection and Preprocessing
 2. Research Question 1 : [RQ1] Sentiment Analysis
